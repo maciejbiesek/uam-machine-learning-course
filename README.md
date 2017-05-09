@@ -12,4 +12,5 @@ Here are datasets and my solutions (written in Python) to Machine Learning Cours
 - Optimization Methods (AdaGrad + Ensemble on MNIST) (07)
 - Cross Validation (08)
 - Neural Networks (09)
+- Deep learning (Keras) (10)
 
